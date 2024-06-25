@@ -1,0 +1,1 @@
+python -m src.evaluate --input_path output/gpt-3.5-turbo-0301/gsm8k_sc1_s0_e1319_relationtuple_temp_0.0_program_verification_temp0.0_06_02_19_16.jsonl --dataset_type math --dataset_name gsm8k
