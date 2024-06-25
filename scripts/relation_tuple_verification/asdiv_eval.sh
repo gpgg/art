@@ -1,0 +1,1 @@
+python -m src.evaluate --input_path output/gpt-3.5-turbo-0301/asdiv_sc1_s0_e828_relationtuple_temp_0.0_program_verification_temp0.0_06_03_15_29.jsonl output/gpt-3.5-turbo-0301/asdiv_sc1_s828_e2096_relationtuple_temp_0.0_program_verification_temp0.0_06_04_02_58.jsonl --dataset_type math --dataset_name asdiv

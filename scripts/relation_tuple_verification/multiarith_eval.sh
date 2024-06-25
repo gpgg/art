@@ -1,0 +1,1 @@
+python -m src.evaluate --input_path output/gpt-3.5-turbo-0301/multiarith_sc1_s0_e600_relationtuple_temp_0.0_program_verification_temp0.0_06_04_12_54.jsonl --dataset_type math --dataset_name multiarith
